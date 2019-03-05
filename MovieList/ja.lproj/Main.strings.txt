@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "My MOVIES"; ObjectID = "10g-Ni-6YN"; */
+"10g-Ni-6YN.text" = "My MOVIES";
+
+/* Class = "UIButton"; normalTitle = "観た映画"; ObjectID = "GlT-L6-lHE"; */
+"GlT-L6-lHE.normalTitle" = "観た映画";
+
+/* Class = "UILabel"; text = "My MOVIES"; ObjectID = "SpU-Te-DhZ"; */
+"SpU-Te-DhZ.text" = "My MOVIES";
+
+/* Class = "UIButton"; normalTitle = "観たい映画"; ObjectID = "rZe-HT-t5V"; */
+"rZe-HT-t5V.normalTitle" = "観たい映画";

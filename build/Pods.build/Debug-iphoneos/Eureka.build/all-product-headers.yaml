@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/kiyo/Desktop/MovieList/build/Debug-iphoneos/Eureka/Eureka.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Eureka-Swift.h",
+          'external-contents': "/Users/kiyo/Desktop/MovieList/build/Debug-iphoneos/Eureka/Eureka.framework/Headers/Eureka-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Eureka-umbrella.h",
+          'external-contents': "/Users/kiyo/Desktop/MovieList/Pods/Target Support Files/Eureka/Eureka-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kiyo/Desktop/MovieList/build/Debug-iphoneos/Eureka/Eureka.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kiyo/Desktop/MovieList/build/Pods.build/Debug-iphoneos/Eureka.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
